@@ -28,7 +28,7 @@ sudo apt install -y \
   lsof \
   net-tools \
   iproute2 \
-  netcat \
+  netcat-openbsd \
   tcpdump
 
 
